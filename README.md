@@ -34,7 +34,7 @@ I'm a passionate developer experienced in building web applications and games. I
 
 ## 📈 GitHub Stats
 
-[![Hackerdude374's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
+[![Hackerdude374's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hackerdude374&show_icons=true&theme=radical)](https://github.com/Hackerdude374/github-readme-stats)
 
 ## 🗂️ Highlight Projects
 
