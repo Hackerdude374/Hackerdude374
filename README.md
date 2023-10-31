@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Robert! 👋
 
 Welcome to my GitHub profile!
 
@@ -34,7 +34,7 @@ I'm a passionate developer experienced in building web applications and games. I
 
 ## 📈 GitHub Stats
 
-[![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
+[![Hackerdude374's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
 
 ## 🗂️ Highlight Projects
 
