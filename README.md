@@ -36,19 +36,3 @@ I'm a passionate developer experienced in building web applications and games. I
 
 [![Hackerdude374's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hackerdude374&show_icons=true&theme=radical)](https://github.com/Hackerdude374/github-readme-stats)
 
-## 🗂️ Highlight Projects
-
-> Here, you can showcase your best projects. Link to the repositories, discuss what they do, and what you learned. It's a great way to highlight specific skills and show your coding style.
-
-### [Project Name 1](Link to Project Repo)
-Description of Project 1. What it does, which technologies you used (e.g., PERN stack), and what you learned from it.
-
-### [Project Name 2](Link to Project Repo)
-Short description of another project. Perhaps a game you built using C++ or Java with game visualization and JavaFX.
-
----
-
-Feel free to connect with me here on GitHub or via [LinkedIn](Your LinkedIn URL).
-
-Looking forward to collaborating on some exciting projects!
-
