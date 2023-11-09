@@ -7,8 +7,8 @@ I'm a passionate developer experienced in building web applications and games. I
 
 - 🔭 I’m currently working on web projects using the PERN stack.
 - 🌱 I’m constantly learning and improving my skills in game design, JavaScript, and Java.
-- 👯 I’m looking to collaborate on innovative web and game development projects.
-- 💬 Ask me about React, Node.js, Express, PostgreSQL, C++, and JavaFX.
+- 👯 I’m looking to collaborate on innovative web and game development projects or anything related to software development/engineering.
+
 
 
 ## 🛠️ Skills
