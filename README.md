@@ -43,9 +43,7 @@ I'm not just a developer; I'm the maestro orchestrating symphonies of code, weav
 - VSCode 💻
 - Excel 📊
 
-## Reacting to Challenges 🚀
-
-![Reacting to challenges](https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif)
+![Ocean Wave](https://media.giphy.com/media/3o7aDczhqp1v7AmHyU/giphy.gif)
 
 ## 🌊 GitHub Stats
 
