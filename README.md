@@ -1,6 +1,13 @@
 # Ahoy there, I'm Robert! 🌊🐾
 
-Welcome to the realm of possibilities in my GitHub galaxy!
+👨‍💻 About Me
+Tech has been my passion since I was a kid, from playfully tinkering with my mom's iPad using the infamous jailbreak method to modifying source code and implementing features Apple wouldn't dare to touch. The thrill of breaking norms and solving problems has fueled my journey in the tech industry.
+
+Constantly evolving, I immerse myself in various tech-related programs. From a Cybersecurity Externship to my current Full Stack Web Development bootcamp, I explore languages like React, create real-world projects (check out Natures Call!), and sharpen my team-building skills with talented peers.
+
+In my free time, I enjoy long walks, weightlifting, swimming, biking, and refining my culinary skills—health always comes first!
+
+Now, I'm ready for the next step in my tech journey, seeking opportunities to contribute as a Software Engineer/Web Developer/Backend Database Designer/AI/Machine Learning enthusiast—or any tech field sparking innovation. If you're in search of a collaborative, communicative, result-driven team member, your quest concludes here! Drop me an email or a LinkedIn message.
 
 ## 👨‍💻 Technologies I Use
 
