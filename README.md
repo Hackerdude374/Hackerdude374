@@ -3,36 +3,8 @@
 Welcome to the realm of possibilities in my GitHub galaxy!
 ## 👨‍💻 Technologies I Tame
 
-![React](https://img.icons8.com/color/48/000000/react-native.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
-![Julia](https://img.icons8.com/color/48/000000/julia-programming-language.png) 
-![Python](https://img.icons8.com/color/48/000000/python.png) 
-![MATLAB](https://img.icons8.com/color/48/000000/matlab.png) 
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
-![CSS](https://img.icons8.com/color/48/000000/css3.png) 
-![React](https://img.icons8.com/color/48/000000/react-native.png) 
-![JavaFX](https://img.icons8.com/color/48/000000/java-eclipse.png) 
-![Javascript](https://img.icons8.com/color/48/000000/javascript.png) 
-![SQL](https://img.icons8.com/color/48/000000/sql.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Julia](https://img.icons8.com/color/48/000000/julia-programming-language.png) ![MATLAB](https://img.icons8.com/color/48/000000/matlab.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![Cygwin](https://img.icons8.com/color/48/000000/console.png) ![LEGO EV3 Robotics](https://img.icons8.com/color/48/000000/lego.png) ![AutoCAD](https://img.icons8.com/color/48/000000/autodesk-autocad.png) ![Jupyter Notebook](https://img.icons8.com/color/48/000000/jupyter.png) ![Eclipse](https://img.icons8.com/color/48/000000/eclipse-ide.png) ![SceneBuilder](https://img.icons8.com/color/48/000000/crowd.png) ![Postman](https://img.icons8.com/color/48/000000/postman-api.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) ![Express.js](https://img.icons8.com/color/48/000000/express.png) ![AWS (Route 53)](https://img.icons8.com/color/48/000000/amazon-web-services.png) ![Sequelize](https://img.icons8.com/color/48/000000/database-restore.png) ![CronJob](https://img.icons8.com/color/48/000000/time.png) ![Jest](https://img.icons8.com/color/48/000000/javascript-test-framework.png) ![Vite.js](https://img.icons8.com/color/48/000000/castle.png) ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Excel](https://img.icons8.com/color/48/000000/ms-excel.png)
 
-![Git](https://img.icons8.com/color/48/000000/git.png) 
-![Cygwin](https://img.icons8.com/color/48/000000/console.png) 
-![LEGO EV3 Robotics](https://img.icons8.com/color/48/000000/lego.png) 
-![AutoCAD](https://img.icons8.com/color/48/000000/autodesk-autocad.png) 
-![Jupyter Notebook](https://img.icons8.com/color/48/000000/jupyter.png) 
-![Eclipse](https://img.icons8.com/color/48/000000/eclipse-ide.png) 
-![SceneBuilder](https://img.icons8.com/color/48/000000/crowd.png) 
-![Postman](https://img.icons8.com/color/48/000000/postman-api.png) 
-![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) 
-![Express.js](https://img.icons8.com/color/48/000000/express.png) 
-![AWS (Route 53)](https://img.icons8.com/color/48/000000/amazon-web-services.png) 
-![Sequelize](https://img.icons8.com/color/48/000000/database-restore.png) 
-![CronJob](https://img.icons8.com/color/48/000000/time.png) 
-![Jest](https://img.icons8.com/color/48/000000/javascript-test-framework.png) 
-![Vite.js](https://img.icons8.com/color/48/000000/castle.png) 
-![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) 
-![Excel](https://img.icons8.com/color/48/000000/ms-excel.png)
 
 ## 👨‍💻 About Me
 I'm not just a developer; I'm the maestro orchestrating symphonies of code, weaving dreams in the realms of web applications, game development, and the art of innovation.
