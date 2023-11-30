@@ -2,7 +2,7 @@
 
 Welcome to the realm of possibilities in my GitHub galaxy!
 
-## 👨‍💻 Technologies I Tame
+## 👨‍💻 Technologies I Use
 
 ![React](https://img.icons8.com/color/48/000000/react-native.png) 
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
