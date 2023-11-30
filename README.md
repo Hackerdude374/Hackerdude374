@@ -1,6 +1,9 @@
 # Ahoy there, I'm Robert! 🌊🐾
 
 Welcome to the realm of possibilities in my GitHub galaxy!
+## 👨‍💻 Technologies I Tame
+
+![React](https://img.icons8.com/color/48/000000/react-native.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
 ## 👨‍💻 About Me
 I'm not just a developer; I'm the maestro orchestrating symphonies of code, weaving dreams in the realms of web applications, game development, and the art of innovation.
