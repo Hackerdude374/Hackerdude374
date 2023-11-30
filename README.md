@@ -44,12 +44,7 @@ Now, I'm ready for the next step in my tech journey, seeking opportunities to co
 ![Vite.js](https://img.icons8.com/color/48/000000/castle.png) 
 ![Excel](https://img.icons8.com/color/48/000000/ms-excel.png)
 
-## 👨‍💻 About Me
-I'm not just a developer; I'm the maestro orchestrating symphonies of code, weaving dreams in the realms of web applications, game development, and the art of innovation.
 
-- 🔭 Currently crafting web wonders with the magical PERN stack, painting digital landscapes with strokes of JavaScript brilliance.
-- 🌱 A perpetual learner, navigating the seas of game design, refining my JavaScript wizardry, and diving into the deep abyss of Java.
-- 👯 Enthusiastic about collaborating on groundbreaking web and game development ventures or any project that demands the finesse of code artistry.
 
 ## 🛠️ Skills
 
