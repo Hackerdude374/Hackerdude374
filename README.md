@@ -1,8 +1,9 @@
 # Ahoy there, I'm Robert! 🌊🐾
-
-👨‍💻 About Me
-
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/robert-le982/)
+
+# 👨‍💻 About Me
+
+
 
 
 Tech has been my passion since I was a kid, from playfully tinkering with my mom's iPad using the infamous jailbreak method to modifying source code and implementing features Apple wouldn't dare to touch. The thrill of breaking norms and solving problems has fueled my journey in the tech industry.
