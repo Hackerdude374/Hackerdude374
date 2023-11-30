@@ -43,7 +43,7 @@ I'm not just a developer; I'm the maestro orchestrating symphonies of code, weav
 - VSCode 💻
 - Excel 📊
 
-![Ocean Wave](https://media.giphy.com/media/3o7aDczhqp1v7AmHyU/giphy.gif)
+![Ocean Wave]([https://media.giphy.com/media/3o7aDczhqp1v7AmHyU/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Focean-waves-gif-ocean-waves-swirl-discover-share-gifs--741194051154708975%2F&psig=AOvVaw3X0YGlWluNy7PulqvUK4A8&ust=1701395538771000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLig4cHO6oIDFQAAAAAdAAAAABAE))
 
 ## 🌊 GitHub Stats
 
