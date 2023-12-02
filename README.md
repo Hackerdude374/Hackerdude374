@@ -80,7 +80,7 @@ Now, I'm ready for the next step in my tech journey, seeking opportunities to co
 - VSCode 💻
 - Excel 📊
 
-![Ocean Wave](https://media.giphy.com/media/3o7aDczhqp1v7AmHyU/giphy.gif) <!-- Replace this URL with your wave GIF -->
+
 
 ## 🌊 GitHub Stats
 
