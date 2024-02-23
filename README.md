@@ -90,4 +90,9 @@ Now, I'm ready for the next step in my tech journey, seeking opportunities to co
 
 [![Hackerdude374's Wakatime Waves](https://github-readme-stats.vercel.app/api/wakatime?username=Hackerdude374&layout=compact&theme=radical)](https://github.com/Hackerdude374/github-readme-stats)
 
+## 🧠 LeetCode Stats
+
+![Your LeetCode Stats](https://leetcode-card.loizenai.com/your-leetcode-username)
+
+
 Let's embark on a journey together, crafting technological wonders and riding the waves of innovation! 🚀🌊
