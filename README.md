@@ -1,4 +1,4 @@
-# Ahoy there, I'm Robert! 🌊🐾
+# Hi there, I'm Robert! 🌊🐾
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/robert-le982/)
 
 # 👨‍💻 About Me
