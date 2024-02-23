@@ -49,37 +49,16 @@ Now, I'm ready for the next step in my tech journey, seeking opportunities to co
 ## 🛠️ Skills
 
 ### Languages
-- Python 🐍
-- SQL 🗃️
-- JavaScript (ES6+) 🚀
-- Java ☕
-- C++ 🎮
-- MATLAB 🧮
-- Julia 📊
+- Python 🐍 - SQL 🗃️ - JavaScript (ES6+) 🚀 - Java ☕ - C++ 🎮 - MATLAB 🧮 - Julia 📊
 
 ### Frameworks & Libraries
-- React ⚛️
-- Node.js 🌐
-- Express 🚄
-- JavaFX 🎭
+- React ⚛️ - Node.js 🌐 - Express 🚄 - JavaFX 🎭
 
 ### Technologies
-- PostgreSQL 🐘
-- AWS (Sailing through Route 53) ☁️
-- Sequelize 🗝️
-- Jest 🃏
-- Vite.js 🏰
-- Git & GitHub 🌐
-- RESTful APIs 🔄
+- PostgreSQL 🐘 - AWS (Sailing through Route 53) ☁️ - Sequelize 🗝️ - Jest 🃏 - Vite.js 🏰 - Git & GitHub 🌐 - RESTful APIs 🔄
 
 ### Tools
-- Postman 📬
-- Jupyter Notebook 📓
-- Eclipse 🌙
-- SceneBuilder 🎨
-- VSCode 💻
-- Excel 📊
-
+- Postman 📬 - Jupyter Notebook 📓 - Eclipse 🌙 - SceneBuilder 🎨 - VSCode 💻 - Excel 📊
 
 
 ## 🌊 GitHub Stats
