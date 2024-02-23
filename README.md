@@ -92,7 +92,7 @@ Now, I'm ready for the next step in my tech journey, seeking opportunities to co
 
 ## 🧠 LeetCode Stats
 
-![Your LeetCode Stats](https://leetcode-card.loizenai.com/bobbyle2]
+![Your LeetCode Stats](https://leetcode-card.loizenai.com/bobbyle2)
 
 
 Let's embark on a journey together, crafting technological wonders and riding the waves of innovation! 🚀🌊
