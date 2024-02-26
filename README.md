@@ -67,7 +67,7 @@ Now, I'm ready for the next step in my tech journey, seeking opportunities to co
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackerdude374&layout=compact&theme=radical)](https://github.com/Hackerdude374/github-readme-stats)
 
-[![Hackerdude374's Wakatime Waves](https://github-readme-stats.vercel.app/api/wakatime?username=Hackerdude374&layout=compact&theme=radical)](https://github.com/Hackerdude374/github-readme-stats)
+(https://github.com/Hackerdude374/github-readme-stats)
 
 ## 🧠 LeetCode Stats
 
