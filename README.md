@@ -1,5 +1,5 @@
 # Hi there, I'm Robert! 🌊🐾
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/robert-le982/)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/robert-le982/) [![Resume](https://img.icons8.com/color/48/000000/resume.png)](https://drive.google.com/file/d/1pK2Vyj00NZ8nhJcqg41Xrjxd-_dQR5p9/view?usp=drive_link)
 
 # 👨‍💻 About Me
 
