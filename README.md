@@ -21,7 +21,7 @@ Now, I'm ready for the next step in my tech journey, seeking opportunities to co
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
 ![Python](https://img.icons8.com/color/48/000000/python.png) 
-![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) 
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) 
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) 
 ![Git](https://img.icons8.com/color/48/000000/git.png) 
 ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) 
@@ -41,9 +41,9 @@ Now, I'm ready for the next step in my tech journey, seeking opportunities to co
 ![Express.js](https://img.icons8.com/color/48/000000/express.png) 
 ![Sequelize](https://img.icons8.com/color/48/000000/database-restore.png) 
 ![CronJob](https://img.icons8.com/color/48/000000/time.png) 
-![Jest](https://img.icons8.com/color/48/000000/javascript-test-framework.png) 
-![Vite.js](https://img.icons8.com/color/48/000000/castle.png) 
-![Excel](https://img.icons8.com/color/48/000000/ms-excel.png)
+![Jest](https://img.icons8.com/color/48/000000/jest.png) 
+![Vite.js](https://img.icons8.com/color/48/000000/vitejs.png) 
+![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png) 
 
 
 
