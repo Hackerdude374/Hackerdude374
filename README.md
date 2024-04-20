@@ -64,7 +64,9 @@ Now, I'm ready for the next step in my tech journey, seeking opportunities to co
 ## 🌊 GitHub Stats
 
 ![Hackerdude374's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hackerdude374&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackerdude374&theme=radical)](https://github.com/Hackerdude374/github-readme-stats)
+
 
 
 ![Hackerdude374's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Hackerdude374&theme=radical)
