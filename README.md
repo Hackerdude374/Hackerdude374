@@ -71,7 +71,7 @@ Now, I'm ready for the next step in my tech journey, seeking opportunities to co
 
 ![Hackerdude374's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Hackerdude374&theme=radical)
 
-![Hackerdude374's GitHub contributions](https://github-readme-stats.vercel.app/api?username=Hackerdude374&count_private=true&show_icons=true&theme=radical)
+
 
 
 ## 🧠 LeetCode Stats
