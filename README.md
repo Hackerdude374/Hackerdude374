@@ -1,6 +1,6 @@
 
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/robert-le982/) ➡️ LinkedIn Profile [![Resume](https://img.icons8.com/color/48/000000/resume.png)](https://drive.google.com/file/d/1UZv4a7_vCUihVG5s0CWSbx9SnG47Hn5d/view?usp=sharing) ➡️ Resume
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/robert-le982/) ➡️ LinkedIn Profile [![Resume](https://img.icons8.com/color/48/000000/resume.png)](https://drive.google.com/file/d/1eqBqslO3bOs_FzsUE6KNjebZ6IRWVHoM/view?usp=sharing) ➡️ Resume
 
 ## 👨‍💻 Technologies I Use
 
