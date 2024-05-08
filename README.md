@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/robert-le982/) ➡️ LinkedIn Profile [![Resume](https://img.icons8.com/color/48/000000/resume.png)](https://drive.google.com/file/d/1hMZN1NW1HQTbZ9UTauMVLQ2QzdUXKKHL/view?usp=sharing) ➡️ Resume
 
-## 👨‍💻 Technologies I Use
+## 👨‍💻 Technologies 
 
 ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png)  ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png)
 
