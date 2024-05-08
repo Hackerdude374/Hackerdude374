@@ -10,20 +10,6 @@
 
 ![Cygwin](https://img.icons8.com/color/48/000000/console.png) ![LEGO EV3 Robotics](https://img.icons8.com/color/48/000000/lego.png) ![AutoCAD](https://img.icons8.com/color/48/000000/autodesk-autocad.png)   ![SceneBuilder](https://img.icons8.com/color/48/000000/crowd.png)  ![Express.js](https://img.icons8.com/color/48/000000/express.png) ![Sequelize](https://img.icons8.com/color/48/000000/database-restore.png) ![CronJob](https://img.icons8.com/color/48/000000/time.png) ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)
 
-## 🛠️ Skills
-
-### Languages
-- Python 🐍 - SQL 🗃️ - JavaScript (ES6+) 🚀 - Java ☕ - C++ 🎮 - MATLAB 🧮 - Julia 📊
-
-### Frameworks & Libraries
-- React ⚛️ - Node.js 🌐 - Express 🚄 - JavaFX 🎭
-
-### Technologies
-- PostgreSQL 🐘 - AWS (Sailing through Route 53) ☁️ - Sequelize 🗝️ - Jest 🃏 - Vite.js 🏰 - Git & GitHub 🌐 - RESTful APIs 🔄
-
-### Tools
-- Postman 📬 - Jupyter Notebook 📓 - Eclipse 🌙 - SceneBuilder 🎨 - VSCode 💻 - Excel 📊
-
 ## 🌊 GitHub Stats
 
 ![Hackerdude374's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hackerdude374&show_icons=true&theme=radical)
