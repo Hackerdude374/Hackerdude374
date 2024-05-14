@@ -15,6 +15,7 @@
 
 
 ![Hackerdude374's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hackerdude374&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hackerdude374&repo=github-readme-stats&theme=radical)](https://github.com/Hackerdude374/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackerdude374&theme=radical)](https://github.com/Hackerdude374/github-readme-stats)
 
