@@ -25,7 +25,7 @@
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/bobbyle2)
-![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbAlZwpfFCR83ArbsC5pFHKxKTM8SIlU0DJ6opfShyw&s)
+
 
 
 </div>
