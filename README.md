@@ -1,9 +1,6 @@
 <div align="center">
 
-![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbAlZwpfFCR83ArbsC5pFHKxKTM8SIlU0DJ6opfShyw&s)
 
-
-![Banner](https://i.pinimg.com/originals/e8/f1/4e/e8f14e5073f1017049914bd2b2513d65.gif)
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/robert-le982/) ➡️ LinkedIn [![Resume](https://img.icons8.com/color/48/000000/resume.png)](https://drive.google.com/file/d/1i_DTXCZcAYj4SNoIZhqkA2kP4Bhj74J_/view?usp=sharing) ➡️ Resume
 
@@ -24,5 +21,8 @@
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/bobbyle2)
+![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbAlZwpfFCR83ArbsC5pFHKxKTM8SIlU0DJ6opfShyw&s)
 
+
+![Banner](https://i.pinimg.com/originals/e8/f1/4e/e8f14e5073f1017049914bd2b2513d65.gif)
 </div>
