@@ -5,7 +5,6 @@
 ![Banner](https://i.pinimg.com/originals/e8/f1/4e/e8f14e5073f1017049914bd2b2513d65.gif)
 
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/robert-le982/) ➡️ LinkedIn [![Resume](https://img.icons8.com/color/48/000000/resume.png)](https://drive.google.com/file/d/1LbVRwhD8Y77IkzddqJU5YarLJG9nTRYX/view?usp=sharing) ➡️ Resume
 
 
 
