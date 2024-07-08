@@ -4,6 +4,7 @@
   
 ![Banner](https://i.pinimg.com/originals/e8/f1/4e/e8f14e5073f1017049914bd2b2513d65.gif)
 
+## About Me
 
 ## Technologies
 ![React](https://img.icons8.com/color/48/000000/react-native.png) 
