@@ -5,11 +5,11 @@
 ![Banner](https://i.pinimg.com/originals/e8/f1/4e/e8f14e5073f1017049914bd2b2513d65.gif)
 
 ## About Me
-- 🔧 I enjoy building practical projects that solve real-world problems or just for fun.
-- 🌐 Constantly learning new technologies and exploring their applications.
-- 🏋️‍♂️ When I'm not immersed in technology, I focus on fitness. You can find me walking, weightlifting, swimming, or biking.
-- 👨‍🍳 I also love honing my cooking skills because good food equals a good life.
-- ☀️ "Get some sunlight, and you'll get your code right."
+🔧 I enjoy building practical projects that solve real-world problems or just for fun.
+🌐 Constantly learning new technologies and exploring their applications.
+🏋️‍♂️ When I'm not immersed in technology, I focus on fitness. You can find me walking, weightlifting, swimming, or biking.
+👨‍🍳 I also love honing my cooking skills because good food equals a good life.
+☀️ "Get some sunlight, and you'll get your code right."
 
   
 ## Technologies
