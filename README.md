@@ -3,6 +3,7 @@
 <div align="center">
   
 ![Banner](https://i.pinimg.com/originals/e8/f1/4e/e8f14e5073f1017049914bd2b2513d65.gif)
+</div>
 
 ## About Me
 
@@ -12,7 +13,8 @@
 👨‍🍳 I also love honing my cooking skills because good food equals a good life.  
 ☀️ "Get some sunlight, and you'll get your code right."
 
-
+<div align="center">
+  
   
 ## Technologies
 ![React](https://img.icons8.com/color/48/000000/react-native.png) 
