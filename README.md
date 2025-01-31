@@ -3,6 +3,9 @@
 <div align="center">
   
 ![Banner](https://i.pinimg.com/originals/e8/f1/4e/e8f14e5073f1017049914bd2b2513d65.gif)
+
+![image](https://github.com/user-attachments/assets/ba6f7b9d-3c43-4a9c-8630-51dbdf481c0b)
+
 </div>
 
 ## About Me 🚀
