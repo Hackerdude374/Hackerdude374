@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Banner](https://i.pinimg.com/originals/e8/f1/4e/e8f14e5073f1017049914bd2b2513d65.gif)
+![Banner]([https://i.pinimg.com/originals/e8/f1/4e/e8f14e5073f1017049914bd2b2513d65.gif](https://i.pinimg.com/originals/18/07/88/180788a8b59b3053b3a0cab7c6765dea.gif))
 
 ![image](https://github.com/user-attachments/assets/ba6f7b9d-3c43-4a9c-8630-51dbdf481c0b)
 
